@@ -12,7 +12,7 @@ function App() {
       {
         label: "Users Gained",
         data: UserData.map((data) => data.userGain),
-        backgroundColor:["green", "blue"],
+        backgroundColor:["#fdb44b", "#00bbf0ç", "#dc2f2f", "#bae8e8", "#cbf078"],
       },
     ],
   });
